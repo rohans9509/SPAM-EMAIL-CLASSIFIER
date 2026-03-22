@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 from sklearn.metrics import accuracy_score
 
 # Load data
-data = pd.read_csv(r"C:/Users/rohan/Downloads/archive/spam.csv", encoding='latin-1')
+data = pd.read_csv("spam.csv")
 
 # Clean data
 data = data[['v1','v2']]
