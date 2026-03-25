@@ -1,1 +1,1 @@
-This is a project I made to detect spam emails
+This is a project used to detect spam emails/messages
